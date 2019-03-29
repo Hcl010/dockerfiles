@@ -1,4 +1,4 @@
-FROM arm32v7/alpine
+FROM alpine:3.9
 MAINTAINER FAN VINGA<fanalcest@gmail.com>
 
 ENV NODE_ID=0                     \
